@@ -1,0 +1,37 @@
+{
+  "name": "TreatAsthma Weather Experience System",
+  "short_name": "TaWES",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "maskable_icon.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "TaWES192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "TaWES256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "TaWES384.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
